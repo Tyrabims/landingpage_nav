@@ -20,6 +20,7 @@ export const LeftContainer = styled.div`
     align-items: center;
     padding-left: 5%;
 `;
+
 export const RightContainer = styled.div`
     display: flex;
     flex: 30%;
@@ -35,7 +36,7 @@ export const NavbarInnerContainer = styled.div`
 
 export const NavbarLinkContainer = styled.div`
 display: flex;
-`
+`;
 export const NavbarLink = styled(Link)`
 color: white;
 font-size: x-large;
