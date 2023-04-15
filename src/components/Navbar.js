@@ -1,15 +1,15 @@
 import React from 'react'
 import { useState } from 'react';
 import { 
-    NavbarContainer,
-    LeftContainer,
-    RightContainer,
-    NavbarInnerContainer,
-    NavbarLinkContainer,
-    NavbarExtendedContainer,
-    NavbarLink,
-    OpenLinksBtn,
-    NavbarLinkExtended,
+        NavbarContainer,
+        LeftContainer,
+        RightContainer,
+        NavbarInnerContainer,
+        NavbarLinkContainer,
+        NavbarExtendedContainer,
+        NavbarLink,
+        OpenLinksBtn,
+        NavbarLinkExtended,
 } from '../styles/Navbar.style';
 
 
